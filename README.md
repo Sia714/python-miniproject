@@ -16,6 +16,7 @@ I have used the following functions to make this email slicer:
 
  list.append():- The append() method appends an element to the end of the list.Used it to make a list of entered emails
 
- for:- A for loop is used for iterating over a sequence (that is either a list, a tuple, a dictionary, a set, or a string).With the for loop we can executea set of statements, once for each item in a list, tuple, set, etc.used it To know the exact position of ‘@’, so we can know
+ for:- A for loop is used for iterating over a sequence (that is either a list, a tuple, a dictionary, a set, or a string).With the for loop we can executea set of statements, once for each item in a list, tuple, set, etc.used it To know the exact position of ‘@’, so we can know where to slice the string from
+
 
 
