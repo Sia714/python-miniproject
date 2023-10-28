@@ -1,4 +1,5 @@
-# python-miniproject
+# Email Slicer
+### In Python
 Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation. it is a case-sensitive language.
 “Email Slicer“ is just a simple tool that will take multiple email address as input and slice it to produce the username and the domain associated with it. The email must be divided into two strings by using ‘@’ as the separator. So, the user provides n number of email addresses and you have to design logic to slice the username and the domain out of those email addresses. The domain part must print in capitals.
 
